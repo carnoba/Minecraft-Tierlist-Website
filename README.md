@@ -1,28 +1,31 @@
-# 🏆 Minecraft Tierlist Website
+# 🏆 Minecraft Tier List Maker
 
-![Minecraft](https://img.shields.io/badge/Minecraft-Gaming-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![Version](https://img.shields.io/badge/Version-1.0.0-blue)
+![Platform](https://img.shields.io/badge/Platform-Web-orange)
 
-**Minecraft Tierlist Website** ek open-source web application hai jo Minecraft community ke liye banayi gayi hai. Iski madad se users Minecraft ke alag-alag elements (jaise ki Weapons, Biomes, Updates, etc.) ki custom rankings bana sakte hain.
+**Minecraft Tier List Maker** is a sleek, user-friendly web tool that allows players to rank everything from mobs and biomes to blocks and updates. Whether you are a YouTuber creating content or a player organizing your thoughts, this tool provides a professional interface for all your ranking needs.
 
-## 🚀 Features
+---
 
-- **Drag & Drop Interface:** Items ko aasani se tiers (S, A, B, C, D) mein move karein.
-- **Custom Tiers:** Apne hisaab se tiers add ya rename karein.
-- **Responsive Design:** Mobile, Tablet aur PC sabhi par smooth chalta hai.
-- **Image Upload:** Apne khud ke Minecraft images upload karke list banayein.
-- **Instant Sharing:** Apni final tier list ko image ke roop mein save karein ya share karein.
+## ✨ Key Features
+
+* **Drag-and-Drop Interface:** Seamlessly move items between tiers with a fluid, intuitive UI.
+* **Fully Customizable:** Rename tiers, change colors, and add/remove rows on the fly.
+* **Responsive Design:** Optimized for desktop, tablets, and smartphones.
+* **Export Support:** Save your completed tier lists as high-quality images for social sharing.
+* **Pre-loaded Assets:** Comes with a library of high-quality Minecraft icons and sprites.
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** HTML5, CSS3 (Modern UI/UX)
-- **Interactivity:** JavaScript (Vanila/React - *jispe bhi aapne banaya ho*)
-- **Deployment:** GitHub Pages / Vercel compatible.
+- **Frontend:** HTML5, CSS3 (Modern Flexbox/Grid), JavaScript (ES6+)
+- **Icons:** Minecraft-specific asset packs
+- **Deployment:** [Add your link here, e.g., GitHub Pages/Vercel]
 
-## 📁 Installation & Setup
+## 🚀 Getting Started
 
-Project ko local machine par chalane ke liye:
+To get a local copy up and running, follow these simple steps:
 
-1. Repository clone karein:
+1. **Clone the Repo**
    ```bash
    git clone [https://github.com/carnoba/Minecraft-Tierlist-Website.git](https://github.com/carnoba/Minecraft-Tierlist-Website.git)
